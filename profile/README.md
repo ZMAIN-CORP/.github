@@ -1,95 +1,63 @@
-# 🛡️ GuardianX — FiveM Security Framework
-
-GuardianX is a next-generation protection system built for FiveM servers, focused on stability, detection accuracy, and deep exploit prevention.
-
-Designed for modern servers that need **serious security without performance loss**.
-
----
-
-## 🚀 Overview
-
-GuardianX acts as a full security layer between your server and malicious clients.  
-It continuously analyzes player behavior, server events, and runtime patterns to detect abnormal activity before it impacts gameplay.
-
-Built for:
-- RP servers
-- Competitive servers
-- Large-scale communities
-- Custom frameworks
+<h1 align="center">🚀 ZMAIN-CORP</h1>
+<p align="center">
+  Building secure systems, powerful APIs & modern web platforms.
+</p>
 
 ---
 
-## ⚙️ Core Architecture
+## 🧠 Who we are
 
-- Lightweight security engine designed for minimal overhead  
-- Event-driven detection pipeline  
-- Real-time behavior tracking system  
-- Adaptive rule system that evolves with new bypass methods  
+ZMAIN-CORP is a development group focused on building secure, scalable and modern software solutions.
 
----
+We specialize in:
 
-## 🔐 Protection Modules
-
-### 🎯 Combat Integrity
-- Detection of unnatural aiming patterns
-- Verification of damage sources
-- Protection against silent modifications
-- Anti unfair advantage tools (speed, recoil, spread manipulation)
-
-### 🧠 Execution Security
-- Block unauthorized code injection attempts
-- Monitor client-side script execution anomalies
-- Detect runtime manipulation of game natives
-
-### 🧨 Event Safety Layer
-- Validation of server events in real time
-- Anti spam & event flood protection
-- Prevention of unauthorized trigger usage
-
-### 🧬 Entity Control
-- Restrict abusive spawning of objects, vehicles, and weapons
-- Detect and block mass entity generation
-- Protect world integrity against injection-based abuse
+* 🔐 Security & licensing systems
+* 🌐 Web applications & dashboards
+* ⚙️ Backend & API development
+* 🎮 FiveM development
 
 ---
 
-## 📊 Monitoring & Control Panel
+## :rocket: Main Project
 
-GuardianX includes a centralized management system:
+### :small_blue_diamond: GuardianX
 
-- Live player activity feed
-- Security alerts timeline
-- Server health monitoring
-- Administrative action logs
-- Investigation tools for suspicious users
+GuardianX is a powerful anti-cheat solution for FiveM servers, designed to protect your server and give you full control through a modern dashboard.
 
----
+### :sparkles: Features
 
-## ⚡ Performance Philosophy
+* :shield: Advanced anti-cheat protection
+* :busts_in_silhouette: Player management system
+* :map: Interactive live map
+* :bar_chart: Real-time dashboard
+* :link: Secure API & backend
+* :zap: High performance & optimized
 
-GuardianX is built to stay invisible when everything is normal.
-
-- Near-zero CPU usage in idle state  
-- Optimized scanning cycles  
-- No unnecessary client burden  
-- Scales with server population automatically  
+:point_right: Access the full project:
+https://github.com/ZMAIN-CORP/guardianx-project
 
 ---
 
-## 🧩 Design Philosophy
+## 🛠️ Tech Stack
 
-Instead of relying only on static detection rules, GuardianX uses:
-- Pattern recognition
-- Behavioral analysis
-- Event correlation
-- Context-based decision making
-
-This reduces false positives while increasing detection depth.
+* Frontend: Next.js, React, TailwindCSS
+* Backend: Rust, Node.js
+* Database: PostgreSQL / MySQL
+* DevOps: Docker, CI/CD
 
 ---
 
-## 🛡️ Final Word
+## 🎯 Our Vision
 
-GuardianX is not just an anticheat layer — it is a continuous security system designed to evolve with your server.
+We aim to build reliable, secure and scalable tools for developers and businesses.
 
-Keep control. Keep fairness. Keep GuardianX.
+Our mission is to simplify complex systems while maintaining high performance and security.
+
+---
+
+## 📬 Contact
+
+* Website: https://guardianx.best
+* Discord: zmain
+
+---
