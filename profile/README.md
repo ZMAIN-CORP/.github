@@ -40,7 +40,7 @@ https://github.com/ZMAIN-CORP/guardianx-project
 
 ## 🛠️ Tech Stack
 
-* Frontend: Next.js, React, TailwindCSS
+* Frontend: TanStack Start, React, TailwindCSS
 * Backend: Rust, Node.js
 * Database: PostgreSQL / MySQL
 * DevOps: Docker, CI/CD
