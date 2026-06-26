@@ -1,63 +1,167 @@
-<h1 align="center">🚀 ZMAIN-CORP</h1>
+# 🚀 ZMAIN-CORP
+
 <p align="center">
-  Building secure systems, powerful APIs & modern web platforms.
+  Building secure software, advanced protection systems and modern developer tools.
 </p>
 
 ---
 
-## 🧠 Who we are
+## 🧠 Who We Are
 
-ZMAIN-CORP is a development group focused on building secure, scalable and modern software solutions.
+ZMAIN-CORP is a software development group focused on building secure, scalable and high-performance solutions.
 
-We specialize in:
+Our expertise includes:
 
-* 🔐 Security & licensing systems
-* 🌐 Web applications & dashboards
+* 🔐 Security software
+* 🛡️ Anti-cheat technologies
 * ⚙️ Backend & API development
+* 🌐 Modern web applications
 * 🎮 FiveM development
+* 🧩 Advanced Lua tooling
 
 ---
 
-## :rocket: Main Project
+# 🚀 Projects
 
-### :small_blue_diamond: GuardianX
+## 🛡️ GuardianX
 
-GuardianX is a powerful anti-cheat solution for FiveM servers, designed to protect your server and give you full control through a modern dashboard.
+GuardianX is a next-generation anti-cheat platform for FiveM servers, built with performance, flexibility and security in mind. It provides real-time protection, server management and a modern web dashboard.
 
-### :sparkles: Features
+### Features
 
-* :shield: Advanced anti-cheat protection
-* :busts_in_silhouette: Player management system
-* :map: Interactive live map
-* :bar_chart: Real-time dashboard
-* :link: Secure API & backend
-* :zap: High performance & optimized
+* 🛡️ Advanced anti-cheat protection
+* 📊 Real-time monitoring
+* 👥 Player & license management
+* 🗺️ Live server map
+* 🔗 Secure REST API
+* ⚡ High-performance architecture
+* 🔒 Advanced licensing system
 
-:point_right: Access the full project:
+### Tech Stack
+
+**Frontend**
+
+* Next.js
+* React
+* Tailwind CSS
+* TypeScript
+
+**Backend**
+
+* Rust
+* Axum
+* Node.js
+
+**Database**
+
+* PostgreSQL
+* Redis
+
+**Infrastructure**
+
+* Docker
+* GitHub Actions
+* Cloudflare
+
+Repository:
+
 https://github.com/ZMAIN-CORP/guardianx-project
 
 ---
 
-## 🛠️ Tech Stack
+## 🔒 Luaof
 
-* Frontend: TanStack Start, React, TailwindCSS
-* Backend: Rust, Node.js
-* Database: PostgreSQL / MySQL
-* DevOps: Docker, CI/CD
+Luaof is an advanced Lua obfuscation platform built for developers who need strong code protection without sacrificing performance.
+
+It provides multiple protection layers, including virtualization, control flow transformations and advanced bytecode-level techniques designed to make reverse engineering significantly more difficult.
+
+### Features
+
+* 🧠 Virtual Machine (VM) protection
+* 🔀 Advanced control flow obfuscation
+* 🔐 String encryption
+* 🎭 Identifier randomization
+* 🧩 Constant & expression obfuscation
+* ⚡ Performance-focused protections
+* 📦 Multiple protection profiles
+* 🔒 Secure licensing system
+* 🌐 Modern web interface
+
+### Tech Stack
+
+**Frontend**
+
+* TanStack Start
+* React
+* Tailwind CSS
+* TypeScript
+
+**Backend**
+
+* tRPC
+* Node.js
+
+**Database**
+
+* PostgreSQL
+* Prisma ORM
+
+**Infrastructure**
+
+* Docker
+* Cloudflare
+
+Website:
+
+https://luaof.guardianx.best
 
 ---
 
-## 🎯 Our Vision
+# 🛠️ Technologies
 
-We aim to build reliable, secure and scalable tools for developers and businesses.
+### Frontend
 
-Our mission is to simplify complex systems while maintaining high performance and security.
+* Next.js
+* TanStack Start
+* React
+* TypeScript
+* Tailwind CSS
+
+### Backend
+
+* Rust
+* Axum
+* Node.js
+* tRPC
+
+### Database
+
+* PostgreSQL
+* Prisma ORM
+* Redis
+
+### DevOps
+
+* Docker
+* GitHub Actions
+* Cloudflare
 
 ---
 
-## 📬 Contact
+# 🎯 Vision
 
-* Website: https://guardianx.best
-* Discord: zmain
+We build secure, high-performance software with a strong focus on reliability, developer experience and modern architecture.
+
+Our goal is to deliver professional tools that combine scalability, usability and security without compromising performance.
 
 ---
+
+# 📬 Contact
+
+**Website**
+
+https://guardianx.best
+
+**Discord**
+
+zmain
