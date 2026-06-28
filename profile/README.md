@@ -8,7 +8,7 @@
 
 ## 🧠 Who We Are
 
-ZMAIN-CORP is a software development group focused on building secure, scalable and high-performance solutions.
+VERTEX-STUDIOS is a software development group focused on building secure, scalable and high-performance solutions.
 
 Our expertise includes:
 
@@ -65,7 +65,7 @@ GuardianX is a next-generation anti-cheat platform for FiveM servers, built with
 
 Repository:
 
-https://github.com/ZMAIN-CORP/guardianx-project
+https://github.com/VX-STUDIOS/guardianx-project
 
 ---
 
