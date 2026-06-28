@@ -1,4 +1,4 @@
-# 🚀 ZMAIN-CORP
+# 🚀 VERTEX STUDIOS
 
 <p align="center">
   Building secure software, advanced protection systems and modern developer tools.
